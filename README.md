@@ -49,6 +49,7 @@ Frontend (React.js)  →  Backend API (Node.js + Express)
                            ↓
                     AWS/Cloud (Deployment)
 
+
 🖥️ Tech Stack
 Layer	Technology
 Frontend	React.js, Recharts, Axios
