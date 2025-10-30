@@ -135,14 +135,16 @@ AegisAI/
 
 #ScreenShots
 
-<img width="1359" height="659" alt="image" src="https://github.com/user-attachments/assets/a93bb2cc-6073-45ac-947b-1c344a2ff574" />
-<img width="372" height="499" alt="image" src="https://github.com/user-attachments/assets/0f3df605-a20c-41ad-ab5e-1da7eac8c82c" />
-<img width="1358" height="402" alt="image" src="https://github.com/user-attachments/assets/986ad7b5-3ec5-4bc0-8431-4090a208eb14" />
-<img width="1357" height="391" alt="image" src="https://github.com/user-attachments/assets/adfe91b5-70cf-4e7c-923d-0c3e26c9d66e" />
-<img width="970" height="117" alt="image" src="https://github.com/user-attachments/assets/99988c4e-748e-4588-a06a-0404d9e49ae1" />
-<img width="598" height="126" alt="image" src="https://github.com/user-attachments/assets/ae04ac78-a6e0-4344-bd49-a9057c49a3ef" />
-<img width="1363" height="370" alt="image" src="https://github.com/user-attachments/assets/0a6e4edb-d4a6-4db9-a192-dbce2dad862b" />
-<img width="1365" height="350" alt="image" src="https://github.com/user-attachments/assets/249f8a33-ada7-4580-bacc-a024241c8cd7" />
+<img width="1364" height="657" alt="AegisAI-1" src="https://github.com/user-attachments/assets/5998901c-b108-4f40-990e-96c8e9035608" />
+<img width="374" height="486" alt="AegisAI-2" src="https://github.com/user-attachments/assets/8079466e-cf05-418f-9579-bab91ec177e4" />
+<img width="1365" height="394" alt="AegisAI-7" src="https://github.com/user-attachments/assets/5939dce0-0abf-4b04-92a1-76af0aa80baa" />
+<img width="1365" height="350" alt="AegisAI-6" src="https://github.com/user-attachments/assets/a685feee-5711-41ee-bce3-b0251a652997" />
+<img width="582" height="122" alt="AegisAI-5" src="https://github.com/user-attachments/assets/aa5fc244-b217-4c93-b4d1-89b1dc5df311" />
+<img width="1365" height="458" alt="AegisAI-4" src="https://github.com/user-attachments/assets/7ef83363-4957-4157-9b91-a309e1729d51" />
+<img width="1366" height="361" alt="AegisAI-3" src="https://github.com/user-attachments/assets/08910b88-8f50-47ac-b4fb-0bbbf1351338" />
+
+
+
 
 
 
