@@ -105,9 +105,7 @@ Section	Description
 🤖 Chatbot	Ask about “CPU”, “Memory”, or “Alerts” for AI responses
 📹 Demo Video
 
-🎥 Watch the demo here → Demo Video Link
 
-(Upload your demo to YouTube or Google Drive and paste the link here.)
 
 🧱 Project Structure
 AegisAI/
