@@ -9,6 +9,17 @@ AegisAI is a self-healing, AI-driven platform that monitors IT infrastructure, p
 
 ## ScreenShots
 <img width="1364" height="657" alt="AegisAI-1" src="https://github.com/user-attachments/assets/cf2bad77-5f6e-4930-a1e6-66624d818674" />
+<img width="374" height="486" alt="AegisAI-2" src="https://github.com/user-attachments/assets/93716932-0c77-449d-a64e-8b7260bc4f26" />
+<img width="1366" height="361" alt="AegisAI-3" src="https://github.com/user-attachments/assets/8ffef86d-603e-4718-b755-13f7311a6ae6" />
+<img width="1365" height="458" alt="AegisAI-4" src="https://github.com/user-attachments/assets/34c3f0f9-355e-4d98-8182-cf1509a3ea7a" />
+<img width="582" height="122" alt="AegisAI-5" src="https://github.com/user-attachments/assets/387f12a7-2d4c-4aea-a8bc-7aaf25041eee" />
+<img width="1365" height="350" alt="AegisAI-6" src="https://github.com/user-attachments/assets/76d7ad3e-effa-4f4b-b605-6c58ce2abc0d" />
+<img width="1365" height="394" alt="AegisAI-7" src="https://github.com/user-attachments/assets/ea3eaa32-eaad-48cc-a50b-62a1936b5ebc" />
+
+
+
+
+
 
 
 ## 🚀 Overview
