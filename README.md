@@ -1,4 +1,4 @@
-<img width="1364" height="657" alt="AegisAI-1" src="https://github.com/user-attachments/assets/90310506-3eea-42ce-a27d-7a075b54c00c" />
+
 # 🧠 AegisAI – Self-Healing IT Infrastructure Agent
 
 > **“Because downtime should heal itself.”**
@@ -6,6 +6,10 @@
 AegisAI is a self-healing, AI-driven platform that monitors IT infrastructure, predicts system failures, and automatically resolves them — ensuring **zero downtime**, **improved reliability**, and **smarter operations** for MSPs and IT teams.
 
 ---
+
+## ScreenShots
+<img width="1364" height="657" alt="AegisAI-1" src="https://github.com/user-attachments/assets/cf2bad77-5f6e-4930-a1e6-66624d818674" />
+
 
 ## 🚀 Overview
 
@@ -130,22 +134,6 @@ AegisAI/
 │   └── dashboard.png
 │
 └── README.md
-
-
-#ScreenShots
-
-<img width="1364" height="657" alt="AegisAI-1" src="https://github.com/user-attachments/assets/5998901c-b108-4f40-990e-96c8e9035608" />
-<img width="374" height="486" alt="AegisAI-2" src="https://github.com/user-attachments/assets/8079466e-cf05-418f-9579-bab91ec177e4" />
-<img width="1365" height="394" alt="AegisAI-7" src="https://github.com/user-attachments/assets/5939dce0-0abf-4b04-92a1-76af0aa80baa" />
-<img width="1365" height="350" alt="AegisAI-6" src="https://github.com/user-attachments/assets/a685feee-5711-41ee-bce3-b0251a652997" />
-<img width="582" height="122" alt="AegisAI-5" src="https://github.com/user-attachments/assets/aa5fc244-b217-4c93-b4d1-89b1dc5df311" />
-<img width="1365" height="458" alt="AegisAI-4" src="https://github.com/user-attachments/assets/7ef83363-4957-4157-9b91-a309e1729d51" />
-<img width="1366" height="361" alt="AegisAI-3" src="https://github.com/user-attachments/assets/08910b88-8f50-47ac-b4fb-0bbbf1351338" />
-
-
-
-
-
 
 🌟 What Makes AegisAI Unique
 
