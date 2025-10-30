@@ -1,30 +1,3 @@
-// const express = require("express");
-// const cors = require("cors");
-// const app = express();
-// const PORT = 5000;
-
-// app.use(cors());
-// app.use(express.json());
-
-// const alerts = [
-//   { id: 1, type: "CPU Overload", status: "Resolved", action: "Restarted Server" },
-//   { id: 2, type: "Memory Leak", status: "Healing", action: "Optimized Process" },
-//   { id: 3, type: "Disk Space Low", status: "Pending", action: "Cleanup Suggested" },
-// ];
-
-// const metrics = {
-//   cpu: "45%",
-//   memory: "68%",
-//   disk: "72%",
-//   uptime: "99.97%",
-// };
-
-// app.get("/api/alerts", (req, res) => res.json(alerts));
-// app.get("/api/metrics", (req, res) => res.json(metrics));
-
-// app.listen(PORT, () => console.log(`✅ Backend running on port ${PORT}`));
-
-
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
