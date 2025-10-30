@@ -1,45 +1,4 @@
-// import React, { useState } from 'react';
 
-// export default function AlertCard({ alert, onAskSuggestion, onApplyFix, loading }) {
-//   const [suggestion, setSuggestion] = useState('');
-
-//   const ask = async () => {
-//     const s = await onAskSuggestion();
-//     setSuggestion(s);
-//   };
-
-//   return (
-//     <div style={{ width: 300, background: '#fff', padding: 16, borderRadius: 10, boxShadow: '0 8px 20px rgba(0,0,0,0.05)' }}>
-//       <h4 style={{ marginTop: 0 }}>{alert.type}</h4>
-//       <p style={{ margin: 4 }}>Status: <b>{alert.status}</b></p>
-//       <p style={{ margin: 4 }}>Action: {alert.action}</p>
-//       <div style={{ marginTop: 8 }}>
-//         {suggestion ? (
-//           <div style={{ background: '#f4f7ff', padding: 8, borderRadius: 6 }}>
-//             <strong>Suggestion:</strong>
-//             <div style={{ fontSize: 13 }}>{suggestion}</div>
-//             <div style={{ marginTop: 8 }}>
-//               <button onClick={() => onApplyFix(suggestion)} disabled={loading} style={buttonStyle}>Apply Fix</button>
-//             </div>
-//           </div>
-//         ) : (
-//           <div style={{ display: 'flex', gap: 8 }}>
-//             <button onClick={ask} disabled={loading} style={buttonStyle}>Get Suggestion</button>
-//             <button onClick={() => onApplyFix('Run auto-heal routine')} disabled={loading} style={buttonStyleSecondary}>Quick Fix</button>
-//           </div>
-//         )}
-//       </div>
-//       {alert.resolvedAt && <div style={{ marginTop: 10, fontSize: 12, color: '#4b5563' }}>Resolved: {new Date(alert.resolvedAt).toLocaleString()}</div>}
-//     </div>
-//   );
-// }
-
-// const buttonStyle = {
-//   background: '#111827', color: '#fff', border: 'none', padding: '8px 12px', borderRadius: 6, cursor: 'pointer'
-// };
-// const buttonStyleSecondary = {
-//   background: '#e2e8f0', color: '#111827', border: 'none', padding: '8px 12px', borderRadius: 6, cursor: 'pointer'
-// };
 import React, { useState } from 'react';
 
 export default function AlertCard({ alert, onAskSuggestion, onApplyFix, loading }) {
