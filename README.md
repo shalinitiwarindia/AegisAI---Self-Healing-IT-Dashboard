@@ -1,3 +1,4 @@
+<img width="1364" height="657" alt="AegisAI-1" src="https://github.com/user-attachments/assets/90310506-3eea-42ce-a27d-7a075b54c00c" />
 # 🧠 AegisAI – Self-Healing IT Infrastructure Agent
 
 > **“Because downtime should heal itself.”**
